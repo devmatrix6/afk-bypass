@@ -73,6 +73,6 @@
     console.log('[AFK] Stopped.');
   };
 
-  console.log('%c[AFK] ✅ Bypass active — switch tabs freely. stopAFK() to stop.', 'color:lime;font-weight:bold;font-size:14px');
+  console.log('%c[AFK] ✅ Made by Prism.Devs Bypass active — switch tabs freely. stopAFK() to stop.', 'color:lime;font-weight:bold;font-size:14px');
 
 })();
